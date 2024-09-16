@@ -1,0 +1,63 @@
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.Title {
+  font-size: 40px;
+  margin-top: 10px;
+  font-weight: 545;
+}
+.About {
+  background-color: rgb(100, 167, 243);
+  font-size: 25px;
+  color: rgb(10, 80, 145);
+  font-weight: 600;
+}
+.Title {
+  font-size: 40px;
+  margin-top: 10px;
+  font-weight: 545;
+}
+span {
+  color: rgb(11, 96, 153);
+  font-weight: 600;
+}
+.Course {
+  font-size: 25px;
+  background-color: rgb(100, 167, 243);
+  color: rgb(10, 80, 145);
+  font-weight: 600;
+}
+table,
+tr,
+td,
+th {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+.rowspan {
+  text-align: center;
+  font-weight: 1000;
+}
+.listener {
+  text-align: center;
+  font-weight: 1000;
+}
+.Interest {
+  background-color: rgb(100, 167, 243);
+  font-size: 25px;
+  color: rgb(10, 80, 145);
+  font-weight: 600;s
+}
+.Submit {
+  background-color: rgb(100, 167, 243);
+  font-size: 25px;
+  color: rgb(10, 80, 145);
+  font-weight: 600;
+}
+img{
+    width: 100px;
+    height: 100px;
+    float: right;
+    width: 300px;
+    height: 300px;
+}
